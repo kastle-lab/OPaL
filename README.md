@@ -1,3 +1,3 @@
 # OPaL
 
-![OPaL Schema Diagram](./schema-diagrams/opal-all.png)
+![OPaL Schema Diagram](./schema-diagram/opal-all.png)
